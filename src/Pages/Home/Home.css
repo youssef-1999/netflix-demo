@@ -1,6 +1,6 @@
 .home_section
 {
-    background-image: url('./assets/hero_banner.jpg');
+    background-image: url('/assets/hero_banner.jpg');
     background-size: cover;
     background-position: center;
     mask-image: linear-gradient(to right,transparent ,black 75%);

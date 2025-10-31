@@ -1,0 +1,35 @@
+.login
+{
+    background-image: url('./assets/background_banner.jpg');
+    background-size: cover;
+    background-position: center;
+    mask-image: linear-gradient(to right,transparent ,black 75%);
+    -webkit-mask-image: linear-gradient(to right,transparent ,black 15%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+.login .netflix_logo
+{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 100px;
+}
+.login-container input {
+    background-color: gray;
+    border: none;
+    color: black;
+}
+
+.login-container
+{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 29%;
+    padding: 25px;
+}
+.cursor_pointer{
+    cursor: pointer;
+}
+

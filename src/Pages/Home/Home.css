@@ -1,0 +1,50 @@
+.home_section
+{
+    background-image: url('./assets/hero_banner.jpg');
+    background-size: cover;
+    background-position: center;
+    mask-image: linear-gradient(to right,transparent ,black 75%);
+    -webkit-mask-image: linear-gradient(to right,transparent ,black 15%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+.hero_caption {
+  position: absolute;
+  top: 65%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+
+.hero_caption .title {
+  width: 50%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+}
+.hero_caption p {
+   
+    max-width: 610px;
+    margin-top: 15px;
+}
+.hero_caption .play_info{
+    width: 400px;
+}
+.hero_caption .play_info img {
+    width: 40px;
+    height: 40px;
+  
+}
+.info {
+    background-color: rgba(76, 76, 76, 0.8);
+
+}
+
+.play_button,.info_button {
+    cursor: pointer;
+}

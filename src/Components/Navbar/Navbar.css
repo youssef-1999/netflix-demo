@@ -1,0 +1,29 @@
+.navbar .navbar-brand 
+{
+    width: 4rem;
+}
+.navbar{
+  transition: all 0.8s ease-out;
+
+  -webkit-transition: all 0.8s ease-out;
+  -moz-transition: all 0.8s ease-out;
+  -ms-transition: all 0.8s ease-out;
+  -o-transition: all 0.8s ease-out;
+}
+
+
+.navbar .nav-link {
+  color: white !important;
+}
+
+.profile-img {
+  width: 35px;
+  height: 35px;
+  border-radius: 4px;
+  object-fit: cover;
+  display:inline-block ;
+}
+.bg-danger{
+  background-color: black !important;
+}
+

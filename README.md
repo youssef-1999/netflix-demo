@@ -6,7 +6,7 @@ A fully responsive **Netflix Clone** built using **React**, **Vite**, **Firebase
 
 ## 🚀 Live Demo
 
-👉 [View the Demo](https://netflix-demo.vercel.app)  
+👉 [View the Demo](https://netflix-demo-three-gilt.vercel.app/login)  
 *(Hosted on Vercel)*
 
 ---
